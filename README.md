@@ -1,5 +1,6 @@
-# insightmenu
+# Buddyget
 
-Find first preview of the new layout for Insight Menu app.
+Find first preview of the new layout for Buddyget app.
+it works on large and also small screens.
 
-Html, Css, Bootstrap, Google Fonts.
+Html, Css, jQuery, Bootstrap, Google Fonts.
